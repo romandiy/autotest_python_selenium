@@ -1,2 +1,3 @@
 # autotest_python_selenium
 training repository
+попытка разобраться
